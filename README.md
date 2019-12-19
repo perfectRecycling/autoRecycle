@@ -16,10 +16,12 @@
 ### Architecture
 
 - 하드웨어 
-<img>
+
+<img src="hardware.png">
 
 - 소프트웨어
-<img>
+
+<img src="software.png">
 
 
 ### Further More
