@@ -1,0 +1,13 @@
+.log {
+    width : 100%;
+    float : left;
+}
+
+.cardbutton{
+    float:right;
+}
+
+.img{
+    width: 70%;
+    height: 70%;
+}

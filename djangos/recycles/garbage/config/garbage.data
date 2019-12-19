@@ -1,0 +1,4 @@
+classes = 5
+train  = data/garbage/train.txt
+valid  = data/garbage/valid.txt
+names = data/garbage/garbage.names
