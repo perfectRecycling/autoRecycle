@@ -1,0 +1,4 @@
+classes= 1
+train=data/capstone/train.txt
+valid=data/capstone/valid.txt
+names=data/capstone/capstone.names
