@@ -1,0 +1,5 @@
+classes= 6
+train = /content/gdrive/My Drive/PyTorch-YOLOv3/data/custom/train.txt
+valid = /content/gdrive/My Drive/PyTorch-YOLOv3/data/custom/valid_mini_1.txt
+names = /content/gdrive/My Drive/PyTorch-YOLOv3/data/custom/classes.names
+backup = /content/gdrive/My Drive/PyTorch-YOLOv3/backup/
